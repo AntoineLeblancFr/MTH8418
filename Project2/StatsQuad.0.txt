@@ -1,0 +1,19 @@
+
+ Total real time (s):                                               2
+ Blackbox evaluations:                                            125
+ Blackbox evaluations (from cache file for rerun):                  0
+ Cache hits:                                                       20
+ Total number of evaluations:                                     145
+ Blackbox evaluations that are not counted:                         0
+ Blackbox evaluations that are not ok:                              0
+ Blackbox feasible evaluations:                                   125
+ Blackbox feasible success evaluations:                            21
+ Block evaluations:                                               125
+ Total surrogate evaluations:                                       0
+ Total surrogate evaluations from cache file (for rerun):           0
+ Total model evaluations:                                       15760
+ PhaseOne success evaluations:                                      0
+ Index of the best feasible evaluation:                           119
+ Index of the best infeasible evaluation:                           0
+ Index of evaluation block containing the best feasible solution: 119
+
